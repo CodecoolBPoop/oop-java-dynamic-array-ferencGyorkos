@@ -1,3 +1,9 @@
 *.iml
 .idea/*
 *.class
+.attach_pid7800
+.attach_pid7845
+.attach_pid8035
+.attach_pid8153
+.attach_pid8311
+.gitignore
